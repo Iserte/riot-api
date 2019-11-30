@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/riot-api/static/css/main.b100e6da.chunk.css",
-    "main.js": "/riot-api/static/js/main.b4bf3ac9.chunk.js",
-    "main.js.map": "/riot-api/static/js/main.b4bf3ac9.chunk.js.map",
+    "main.css": "/riot-api/static/css/main.91b9881b.chunk.css",
+    "main.js": "/riot-api/static/js/main.4820a5ea.chunk.js",
+    "main.js.map": "/riot-api/static/js/main.4820a5ea.chunk.js.map",
     "runtime-main.js": "/riot-api/static/js/runtime-main.4acb548b.js",
     "runtime-main.js.map": "/riot-api/static/js/runtime-main.4acb548b.js.map",
     "static/js/2.d82ee39f.chunk.js": "/riot-api/static/js/2.d82ee39f.chunk.js",
     "static/js/2.d82ee39f.chunk.js.map": "/riot-api/static/js/2.d82ee39f.chunk.js.map",
     "index.html": "/riot-api/index.html",
-    "precache-manifest.4428022a6a8f220addc80a7411634681.js": "/riot-api/precache-manifest.4428022a6a8f220addc80a7411634681.js",
+    "precache-manifest.fc51b8962497dcab2f3c4b23cc3106ad.js": "/riot-api/precache-manifest.fc51b8962497dcab2f3c4b23cc3106ad.js",
     "service-worker.js": "/riot-api/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/riot-api/static/css/main.b100e6da.chunk.css.map"
+    "static/css/main.91b9881b.chunk.css.map": "/riot-api/static/css/main.91b9881b.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.4acb548b.js",
     "static/js/2.d82ee39f.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.b4bf3ac9.chunk.js"
+    "static/css/main.91b9881b.chunk.css",
+    "static/js/main.4820a5ea.chunk.js"
   ]
 }
